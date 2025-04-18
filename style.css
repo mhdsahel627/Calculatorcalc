@@ -20,6 +20,8 @@
 }
 
 .output input{
+    font-size:30px;
+    font-weight:bolder;
     margin-top: -15px;
     margin-bottom: 10px;
     border: 10px solid gray;
